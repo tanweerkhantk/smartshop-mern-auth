@@ -266,3 +266,22 @@ When a user logs in, the backend creates a session and stores the user's informa
 
 ### User Favorite Page after Add to Favorite
 ![ User Favorite Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/user-favorite-page.png)
+
+### Admin Home Page
+![Admin Home Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/admin-home.png)
+
+### Admin Products Page
+![Admin Products Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/admin-products-page.png)
+
+### Admin Add Product Page
+![Admin Add Product Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/admin-addProduct-page.png)
+
+### Admin Edit Product Page
+![Admin Edit Product Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/admin-editProdut-page.png)
+
+### Admin Manage Users Page
+![Admin Manage Users Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/admin-manageUser-page.png)
+
+### Admin Dashboard Page
+![Admin Dashboard Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/admin-dashboard.png)
+
