@@ -1,4 +1,4 @@
-# 🛒 Smart Shop Ecommerce Project Using Mern With Auth
+# 🛒 Smart Shop - MERN Stack E-Commerce Web Application with Session & Cookie Authentication
 
 I developed a full-stack e-commerce web application using the MERN stack. The application uses session-based authentication with cookies for secure login and role-based authorization for Admin and User accounts. Users can browse products, view product details, add items to their cart, and save products to favorites. Admins can manage products and users through a dedicated dashboard with complete CRUD functionality. Product images are uploaded using Multer and stored on the server.
 
@@ -26,6 +26,8 @@ The **Smert Shop** is a **MERN E-Commerce Web Application is a full-stack** onli
 - Protected Routes
 - Role-Based Authorization
 - Secure Logout
+
+---
 
 ## Features
 
@@ -60,6 +62,8 @@ The **Smert Shop** is a **MERN E-Commerce Web Application is a full-stack** onli
 - View Total Users
 - View Total Products
 
+---
+
 ## ⚙️ Tech Stack
  
 ### Frontend
@@ -85,3 +89,6 @@ The **Smert Shop** is a **MERN E-Commerce Web Application is a full-stack** onli
 
 ## File Upload
 - Multer
+
+---
+
