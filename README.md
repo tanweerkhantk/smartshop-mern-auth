@@ -219,7 +219,6 @@ When a user logs in, the backend creates a session and stores the user's informa
 - Vite
 
 ### Backend 
-- Tool	
 - Node.js	
 - Express.js	
 - MongoDB	
