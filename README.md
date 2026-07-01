@@ -246,11 +246,11 @@ When a user logs in, the backend creates a session and stores the user's informa
 
 ## 🖼️ Screenshots
 
-### Login Page
-![Login Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/login-page.png)
-
 ### Register Page
 ![Register Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/register-page.png)
+
+### Login Page
+![Login Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/login-page.png)
 
 ### User Home Page
 ![User Home Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/user-home.png)
