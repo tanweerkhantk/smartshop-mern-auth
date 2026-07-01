@@ -81,5 +81,5 @@ The **Smert Shop** is a **MERN E-Commerce Web Application is a full-stack** onli
 - HTTP Cookies
 - Role-Based Authorization
 
-### File Upload
+## File Upload
 - Multer
