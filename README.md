@@ -4,13 +4,14 @@ I developed a full-stack e-commerce web application using the MERN stack. The ap
 
 ---
 
-## Table of Content
+## 📌 Table of Content
 - About Project
 - Features
 - Tech Stack
 - Project Structure
 - Authentication Flow
 - REST APIs
+- Tools & Packeges
 - Screenshots
 - Usage
 - Security
@@ -30,9 +31,9 @@ The **Smert Shop** is a **MERN E-Commerce Web Application is a full-stack** onli
 
 ---
 
-## Features
+## 📦 Features
 
-### User Features
+### 👥 User Features
 
 - Register and Login
 - Session & Cookie Authentication
@@ -50,7 +51,7 @@ The **Smert Shop** is a **MERN E-Commerce Web Application is a full-stack** onli
 - Their own favorites
 - Their own authenticated session
 
-### Admin Features
+### 👤 Admin Features
 - Admin Login
 - Dashboard
 - Add Product
@@ -82,18 +83,18 @@ The **Smert Shop** is a **MERN E-Commerce Web Application is a full-stack** onli
 - MongoDB
 - Mongoose
 
-### Authentication
+### 🔐 Authentication
 - Express Session
 - Cookie Parser
 - HTTP Cookies
 - Role-Based Authorization
 
-### File Upload
+### 📁 File Upload
 - Multer
 
 ---
 
-## Project Structure
+## 📦 Project Structure
 
 ### Backend
 - config/ – Database connection (db.js).
@@ -130,10 +131,10 @@ The **Smert Shop** is a **MERN E-Commerce Web Application is a full-stack** onli
 
 ---
 
-## Authentication Flow
+## 🔐 Authentication Flow
 When a user logs in, the backend creates a session and stores the user's information. A session ID is sent to the browser using an HTTP cookie. Every protected request automatically includes this cookie. The backend verifies the session before allowing access to protected APIs.
 
-### Role-Based Authorization
+### 🔐 Role-Based Authorization
 
 **User**
 
@@ -174,30 +175,70 @@ When a user logs in, the backend creates a session and stores the user's informa
 
 ## REST APIs
 
-### Authentication
+### 🔐 Authentication
 - POST /api/auth/register
 - POST /api/auth/login
 - POST /api/auth/logout
 - GET /api/auth/profile
 
-### Products
+### 📦 Products
 - GET /api/products
 - GET /api/products/:id
 - POST /api/products
 - PUT /api/products/:id
 - DELETE /api/products/:id
 
-### Cart
+### 🛒 Cart
 - GET /api/cart
 - POST /api/cart/add
 - DELETE /api/cart/:id
 
-### Favorites
+### 💌 Favorites
 - GET /api/favorites
 - POST /api/favorites/add
 - DELETE /api/favorites/:id
 
-### Users (Admin)
+### 👤 Users (Admin)
 - GET /api/users
 - PUT /api/users/:id/role
 - DELETE /api/users/:id
+
+---
+
+## ⚙️ Tools & Packages
+
+### Frontend 
+- React.js	
+- React Router DOM	
+- Axios	
+- Tailwind CSS	
+- React Context API	
+- React Toastify	
+- Lucide React	
+- React Icons	
+- Vite
+
+### Backend 
+- Tool	
+- Node.js	
+- Express.js	
+- MongoDB	
+- Mongoose	
+- Express Session	
+- Cookie Parser	
+- Multer	
+- CORS	
+- Dotenv	
+- BcryptJS	
+- Nodemon
+
+### Database
+- MongoDB
+
+### Development Tools
+- Visual Studio Code
+- Git
+- GitHub
+- Thunder Client
+- MongoDB Compass
+- npm
