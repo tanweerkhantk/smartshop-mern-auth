@@ -6,6 +6,7 @@ I developed a full-stack e-commerce web application using the MERN stack. The ap
 
 ## Table of Content
 - About Project
+- Features
 - Tech Stack
 - Screenshots
 - Installation
@@ -13,3 +14,72 @@ I developed a full-stack e-commerce web application using the MERN stack. The ap
 - Usage
 - Security
 - Future Improvement
+
+## 🏠 About Project
+
+The **Smert Shop** is a **MERN E-Commerce Web Application is a full-stack** online shopping platform.The application provides a secure shopping experience through session and cookie-based authentication and implements role-based access control for both Admin and User accounts.
+
+- User Registration and Login
+- Session & Cookie Authentication
+- Protected Routes
+- Role-Based Authorization
+- Secure Logout
+
+## Features
+
+### User Features
+
+- Register and Login
+- Session & Cookie Authentication
+- Home Page
+- Product Listing
+- Product Details
+- Add to Cart
+- Add to Favorites
+- Remove from Cart
+- Remove from Favorites
+- Logout
+
+**Each user has:**
+- Their own shopping cart
+- Their own favorites
+- Their own authenticated session
+
+### Admin Features
+- Admin Login
+- Dashboard
+- Add Product
+- Edit Product
+- Delete Product
+- Upload Product Image using Multer
+- Manage Users
+- Change User Role
+- Delete Users
+- View Total Users
+- View Total Products
+
+## ⚙️ Tech Stack
+ 
+### Frontend
+- React.js
+- React Router DOM
+- Axios
+- Tailwind CSS
+- React Context API
+- React Toastify
+- Lucide React Icons
+
+## #Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+
+## Authentication
+- Express Session
+- Cookie Parser
+- HTTP Cookies
+- Role-Based Authorization
+
+### File Upload
+- Multer
