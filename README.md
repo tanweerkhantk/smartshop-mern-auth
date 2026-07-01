@@ -8,9 +8,9 @@ I developed a full-stack e-commerce web application using the MERN stack. The ap
 - About Project
 - Features
 - Tech Stack
+- Project Structure
 - Screenshots
 - Installation
-- Project Structure
 - Usage
 - Security
 - Future Improvement
@@ -91,4 +91,39 @@ The **Smert Shop** is a **MERN E-Commerce Web Application is a full-stack** onli
 - Multer
 
 ---
+
+## Project Structure
+
+### Backend
+- config/ – Database connection (db.js).
+- controllers/ – Contains business logic for authentication, products, carts, favorites, users, and - admin features.
+- middleware/ – Authentication, role checking, and file upload middleware.
+- models/ – Mongoose schemas for MongoDB collections.
+- routes/ – Defines REST API endpoints.
+- uploads/ – Stores product images uploaded with Multer.
+- app.js – Configures Express, middleware, routes, sessions, cookies, and static files.
+- server.js – Starts the server and connects to MongoDB.
+
+### Frontend
+- api/ – Axios configuration for API requests.
+- components/ – Reusable UI components.
+- context/ – Global authentication state using React Context.
+- pages/ – Individual application pages.
+- App.jsx – Defines routing and layout.
+- main.jsx – Entry point for the React application.
+
+### Architecture Pattern
+
+**backend follows the MVC (Model–View–Controller) pattern:**
+- Model → MongoDB schemas (models/)
+- View → React frontend (frontend/src)
+- Controller → Business logic (controllers/)
+- Routes → Maps HTTP requests to controllers (routes/)
+- Database Collections
+
+**MongoDB database contains these collections:**
+- users
+- products
+- carts
+- favorites
 
