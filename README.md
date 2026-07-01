@@ -274,7 +274,7 @@ When a user logs in, the backend creates a session and stores the user's informa
 ![Admin Products Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/admin-products-page.png)
 
 ### Admin Add Product Page
-![Admin Add Product Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/admin-addProduct-page.png)
+![Admin Add Product Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/admin-add-product-page.png)
 
 ### Admin Edit Product Page
 ![Admin Edit Product Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/admin-editProdut-page.png)
