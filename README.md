@@ -75,19 +75,19 @@ The **Smert Shop** is a **MERN E-Commerce Web Application is a full-stack** onli
 - React Toastify
 - Lucide React Icons
 
-## Backend
+### Backend
 - Node.js
 - Express.js
 - MongoDB
 - Mongoose
 
-## Authentication
+### Authentication
 - Express Session
 - Cookie Parser
 - HTTP Cookies
 - Role-Based Authorization
 
-## File Upload
+### File Upload
 - Multer
 
 ---
