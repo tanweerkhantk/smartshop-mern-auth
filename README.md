@@ -15,6 +15,8 @@ I developed a full-stack e-commerce web application using the MERN stack. The ap
 - Security
 - Future Improvement
 
+---
+
 ## 🏠 About Project
 
 The **Smert Shop** is a **MERN E-Commerce Web Application is a full-stack** online shopping platform.The application provides a secure shopping experience through session and cookie-based authentication and implements role-based access control for both Admin and User accounts.
