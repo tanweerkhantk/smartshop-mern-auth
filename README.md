@@ -13,9 +13,6 @@ I developed a full-stack e-commerce web application using the MERN stack. The ap
 - REST APIs
 - Tools & Packeges
 - Screenshots
-- Usage
-- Security
-- Future Improvement
 
 ---
 
