@@ -9,8 +9,8 @@ I developed a full-stack e-commerce web application using the MERN stack. The ap
 - Features
 - Tech Stack
 - Project Structure
+- Authentication Flow
 - Screenshots
-- Installation
 - Usage
 - Security
 - Future Improvement
@@ -127,3 +127,38 @@ The **Smert Shop** is a **MERN E-Commerce Web Application is a full-stack** onli
 - carts
 - favorites
 
+---
+
+## Authentication Flow
+When a user logs in, the backend creates a session and stores the user's information. A session ID is sent to the browser using an HTTP cookie. Every protected request automatically includes this cookie. The backend verifies the session before allowing access to protected APIs.
+
+### Role-Based Authorization
+
+**User**
+
+***Can access:***
+- Home
+- Products
+- Product Details
+- Cart
+- Favorites
+
+***Cannot access:***
+- Dashboard
+- Add Product
+- Edit Product
+- Delete Product
+- Manage Users
+
+**Admin**
+
+***Can access:***
+- Dashboard
+- Product Management
+- User Management
+- Product CRUD
+- Role Management
+
+***Cannot access:***
+- Cart
+- Favorites
