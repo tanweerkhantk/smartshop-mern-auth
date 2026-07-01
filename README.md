@@ -68,7 +68,7 @@ The **Smert Shop** is a **MERN E-Commerce Web Application is a full-stack** onli
 
 ## ⚙️ Tech Stack
  
-### Frontend
+### </> Frontend
 - React.js
 - React Router DOM
 - Axios
@@ -77,7 +77,7 @@ The **Smert Shop** is a **MERN E-Commerce Web Application is a full-stack** onli
 - React Toastify
 - Lucide React Icons
 
-### Backend
+### </> Backend
 - Node.js
 - Express.js
 - MongoDB
@@ -94,9 +94,9 @@ The **Smert Shop** is a **MERN E-Commerce Web Application is a full-stack** onli
 
 ---
 
-## 📦 Project Structure
+## 📂 Project Structure
 
-### Backend
+### </> Backend
 - config/ – Database connection (db.js).
 - controllers/ – Contains business logic for authentication, products, carts, favorites, users, and - admin features.
 - middleware/ – Authentication, role checking, and file upload middleware.
@@ -106,7 +106,7 @@ The **Smert Shop** is a **MERN E-Commerce Web Application is a full-stack** onli
 - app.js – Configures Express, middleware, routes, sessions, cookies, and static files.
 - server.js – Starts the server and connects to MongoDB.
 
-### Frontend
+### </> Frontend
 - api/ – Axios configuration for API requests.
 - components/ – Reusable UI components.
 - context/ – Global authentication state using React Context.
@@ -124,10 +124,10 @@ The **Smert Shop** is a **MERN E-Commerce Web Application is a full-stack** onli
 - Database Collections
 
 **MongoDB database contains these collections:**
-- users
-- products
-- carts
-- favorites
+- 👥 users
+- 📦 products
+- 🛒 carts
+- 💌 favorites
 
 ---
 
@@ -139,37 +139,37 @@ When a user logs in, the backend creates a session and stores the user's informa
 **User**
 
 ***Can access:***
-- Home
-- Products
-- Product Details
-- Cart
-- Favorites
+- 🏠 Home
+- 📦 Products
+- 📦 Product Details
+- 🛒 Cart
+- 💌 Favorites
 
 ***Cannot access:***
-- Dashboard
-- Add Product
-- Edit Product
-- Delete Product
-- Manage Users
+- 📊 Dashboard
+- ➕ Add Product
+- ✏️ Edit Product
+- ➖ Delete Product
+- 👥 Manage Users
 
 **Admin**
 
 ***Can access:***
-- Dashboard
-- Product Management
-- User Management
-- Product CRUD
-- Role Management
+- 📊 Dashboard
+- 📦 Product Management
+- 👥 User Management
+- 📦 Product CRUD
+- 👤 Role Management
 
 ***Cannot access:***
-- Cart
-- Favorites
+- 🛒 Cart
+- 💌 Favorites
 
 **Database Collections**
-- Users
-- Products
-- Cart
-- Favorites
+- 👥 Users
+- 📦 Products
+- 🛒 Cart
+- 💌 Favorites
 
 ---
 
@@ -207,7 +207,7 @@ When a user logs in, the backend creates a session and stores the user's informa
 
 ## ⚙️ Tools & Packages
 
-### Frontend 
+### </> Frontend 
 - React.js	
 - React Router DOM	
 - Axios	
@@ -218,7 +218,7 @@ When a user logs in, the backend creates a session and stores the user's informa
 - React Icons	
 - Vite
 
-### Backend 
+### </> Backend 
 - Node.js	
 - Express.js	
 - MongoDB	
@@ -231,10 +231,10 @@ When a user logs in, the backend creates a session and stores the user's informa
 - BcryptJS	
 - Nodemon
 
-### Database
+### Database 
 - MongoDB
 
-### Development Tools
+### ⚙️ Development Tools
 - Visual Studio Code
 - Git
 - GitHub
@@ -252,36 +252,36 @@ When a user logs in, the backend creates a session and stores the user's informa
 ### Login Page
 ![Login Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/login-page.png)
 
-### User Home Page
+### 🏠 User Home Page
 ![User Home Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/user-home.png)
 
-### User Products Page
+### 📦 User Products Page
 ![User Products Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/user-products-page.png)
 
-### User View Product Page
+### 🪟 User View Product Page
 ![User View Product Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/user-viewProduct-page.png)
 
-### User Product Cart Page after Add to Cart
+### 🛒 User Product Cart Page after Add to Cart
 ![User Product Cart Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/user-cart-page.png)
 
-### User Favorite Page after Add to Favorite
+### 💌 User Favorite Page after Add to Favorite
 ![ User Favorite Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/user-favorite-page.png)
 
-### Admin Home Page
+### 🏠 Admin Home Page
 ![Admin Home Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/admin-home.png)
 
-### Admin Products Page
+### 📦 Admin Products Page
 ![Admin Products Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/admin-products-page.png)
 
-### Admin Add Product Page
+### ➕ Admin Add Product Page
 ![Admin Add Product Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/admin-add-product-page.png)
 
-### Admin Edit Product Page
+### ✏️ Admin Edit Product Page
 ![Admin Edit Product Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/admin-editProdut-page.png)
 
-### Admin Manage Users Page
+### 👥 Admin Manage Users Page
 ![Admin Manage Users Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/admin-manageUser-page.png)
 
-### Admin Dashboard Page
+### 📊 Admin Dashboard Page
 ![Admin Dashboard Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/admin-dashboard.png)
 
