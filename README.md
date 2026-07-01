@@ -241,3 +241,12 @@ When a user logs in, the backend creates a session and stores the user's informa
 - Thunder Client
 - MongoDB Compass
 - npm
+
+---
+
+## Screenshots
+
+### 🖼️ Login
+
+### Login Page
+(https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/login-page.png)
