@@ -248,3 +248,21 @@ When a user logs in, the backend creates a session and stores the user's informa
 
 ### Login Page
 ![Login Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/login-page.png)
+
+### Register Page
+![Register Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/register-page.png)
+
+### User Home Page
+![User Home Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/user-home.png)
+
+### User Products Page
+![User Products Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/user-products-page.png)
+
+### User View Product Page
+![User View Product Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/user-viewProduct-page.png)
+
+### User Product Cart Page after Add to Cart
+![User Product Cart Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/user-cart-page.png)
+
+### User Favorite Page after Add to Favorite
+![ User Favorite Page](https://github.com/tanweerkhantk/smartshop-mern-auth/blob/main/user-favorite-page.png)
